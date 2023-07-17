@@ -5,7 +5,7 @@ public class GItPushh
 	{
 		System.out.println("Done");
 
-		//git to local toll
+		//git to local tool
 	}
 
 }
